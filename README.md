@@ -1,4 +1,4 @@
-This is a repo to use as a quickstart to start working with Spring Boot and deploying to the JBoss Web Server 3.0 Tomcat 8 application server.  This uses the mvn build system and creates a .jar file that can be deployed.  The code also contains a sample REST based service listening at /hello.
+This is a repo to use as a quickstart to start working with Spring Boot and deploying to the JBoss Web Server 3.0 Tomcat 8 application server.  This uses the mvn build system and creates a .war file that can be deployed.  The code also contains a sample REST based service listening at /hello.
 
 As an added bonus, this repo can also be deployed directly as a docker container using the JBoss Web Server 3.0 Tomcat 8 S2I builder image on OpenShift 3 with the following command:
 
